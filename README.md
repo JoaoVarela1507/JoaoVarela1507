@@ -1,5 +1,9 @@
 ## Hi, I'm João Lucas de Lima Varela 👋
-Hello! My name is João Lucas de Lima Varela and I am a programmer passionate about technology and software development. I have experience in several programming languages ​​and frameworks, including Python, JavaScript, React, Node.js, TypeScript and API development. In my training, I completed courses in IT Governance and Management and English for IT at Porto Digital, Front-end Programming End at SENAI and Front-End Programming - JavaScript in React at SOFTEX. In addition to technical skills, I have important soft skills such as people management, agile methodologies, effective communication, problem solving and teamwork. I am always looking for new challenges and opportunities to grow professionally.
+Hello! I’m João Lucas de Lima Varela, an Information Systems student and a developer passionate about technology, automation, and software development.
+
+I have experience with Python, JavaScript, TypeScript, React, Angular, Node.js, and REST APIs, working on web applications, process automation, web scraping, and data manipulation using tools like Selenium, Pandas, and OpenPyXL. I use Git/GitHub daily and follow software engineering best practices.
+
+I enjoy learning continuously, working in agile teams, and taking on new challenges to grow professionally.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="val-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
